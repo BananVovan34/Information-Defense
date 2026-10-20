@@ -1,0 +1,14 @@
+E:\study\informationdefense\tmp\lab2-checks\bin\Debug\net8.0\Lab2Checks.exe
+E:\study\informationdefense\tmp\lab2-checks\bin\Debug\net8.0\Lab2Checks.deps.json
+E:\study\informationdefense\tmp\lab2-checks\bin\Debug\net8.0\Lab2Checks.runtimeconfig.json
+E:\study\informationdefense\tmp\lab2-checks\bin\Debug\net8.0\Lab2Checks.dll
+E:\study\informationdefense\tmp\lab2-checks\bin\Debug\net8.0\Lab2Checks.pdb
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.AssemblyInfoInputs.cache
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.AssemblyInfo.cs
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.csproj.CoreCompileInputs.cache
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.dll
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\refint\Lab2Checks.dll
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.pdb
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\Lab2Checks.genruntimeconfig.cache
+E:\study\informationdefense\tmp\lab2-checks\obj\Debug\net8.0\ref\Lab2Checks.dll

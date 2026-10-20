@@ -1,0 +1,26 @@
+PASS: Exact round trip for 32 bytes
+PASS: Exact round trip for 33 bytes
+PASS: Exact round trip for 47 bytes
+PASS: Exact round trip for 48 bytes
+PASS: Exact round trip for 49 bytes
+PASS: Exact round trip for 4194304 bytes
+PASS: Unicode, emoji and mixed line endings preserved
+PASS: New salt and IV for repeated encryption
+PASS: Container uses AES-192-CBC, PBKDF2-SHA256 and valid HMAC-SHA256
+PASS: Wrong password rejected without output
+PASS: Tampered byte 0 rejected without output
+PASS: Tampered byte 8 rejected without output
+PASS: Tampered byte 9 rejected without output
+PASS: Tampered byte 25 rejected without output
+PASS: Tampered byte 41 rejected without output
+PASS: Tampered byte 184 rejected without output
+PASS: Out-of-range plaintext 0 bytes rejected
+PASS: Out-of-range plaintext 31 bytes rejected
+PASS: Out-of-range plaintext 4194305 bytes rejected
+PASS: Truncated ciphertext rejected
+PASS: Empty password rejected
+PASS: Source cannot be overwritten
+PASS: Existing output preserved
+PASS: No temporary files remain
+SHA256 original/restored: 25124D363C05324951B572C9958E069A411D413068F0228890B7F953C6739080
+All 24 checks passed.

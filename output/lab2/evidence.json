@@ -1,0 +1,20 @@
+{
+  "source_file": "E:\\study\\informationdefense\\output\\lab2\\run\\исходный.txt",
+  "encrypted_file": "E:\\study\\informationdefense\\output\\lab2\\run\\зашифровано.aes192",
+  "restored_file": "E:\\study\\informationdefense\\output\\lab2\\run\\восстановлено.txt",
+  "source_bytes": 894,
+  "encrypted_bytes": 969,
+  "restored_bytes": 894,
+  "byte_for_byte_equal": true,
+  "sha256_both": "11C0BD77A2C190731456E3C7F7195884F9BA4265FAB7F3AAC48BE7E5EAA2A647",
+  "encryption_seconds_on_screenshot": 0.08,
+  "decryption_seconds_on_screenshot": 0.07,
+  "wrong_password_output_exists": false,
+  "screenshots": [
+    "E:\\study\\informationdefense\\Lab2Encryption\\screenshots\\00-интерфейс.png",
+    "E:\\study\\informationdefense\\Lab2Encryption\\screenshots\\01-перед-шифрованием.png",
+    "E:\\study\\informationdefense\\Lab2Encryption\\screenshots\\02-шифрование-завершено.png",
+    "E:\\study\\informationdefense\\Lab2Encryption\\screenshots\\03-расшифрование-завершено.png",
+    "E:\\study\\informationdefense\\Lab2Encryption\\screenshots\\04-неверный-пароль.png"
+  ]
+}
