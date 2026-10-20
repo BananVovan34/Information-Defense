@@ -1,0 +1,16 @@
+E:\study\informationdefense\Lab2Encryption\bin\Debug\net8.0-windows\Lab2Encryption.exe
+E:\study\informationdefense\Lab2Encryption\bin\Debug\net8.0-windows\Lab2Encryption.deps.json
+E:\study\informationdefense\Lab2Encryption\bin\Debug\net8.0-windows\Lab2Encryption.runtimeconfig.json
+E:\study\informationdefense\Lab2Encryption\bin\Debug\net8.0-windows\Lab2Encryption.dll
+E:\study\informationdefense\Lab2Encryption\bin\Debug\net8.0-windows\Lab2Encryption.pdb
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.Form1.resources
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.csproj.GenerateResource.cache
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.AssemblyInfoInputs.cache
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.AssemblyInfo.cs
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.csproj.CoreCompileInputs.cache
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.dll
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\refint\Lab2Encryption.dll
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.pdb
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\Lab2Encryption.genruntimeconfig.cache
+E:\study\informationdefense\Lab2Encryption\obj\Debug\net8.0-windows\ref\Lab2Encryption.dll
